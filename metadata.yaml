@@ -1,0 +1,40 @@
+_repo: Noa-Noa_62800
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wolf, Luise
+    birthdate: 1860
+    deathdate: 1942
+    gutenberg_agent_id: '52132'
+    url: http://www.gutenberg.org/2009/agents/52132
+    wikipedia: https://de.wikipedia.org/wiki/Luise_Wolf_(%C3%9Cbersetzerin)
+creator:
+  author:
+    agent_name: Gauguin, Paul
+    aliases:
+    - Gauguin, Eugène Henri Paul
+    - Gauguin, Eugene Henri Paul
+    birthdate: 1848
+    deathdate: 1903
+    gutenberg_agent_id: '4057'
+    url: http://www.gutenberg.org/2009/agents/4057
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_Gauguin
+    - https://fr.wikipedia.org/wiki/Paul_Gauguin
+description: ''
+gutenberg_issued: '2020-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62800'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tahiti (French Polynesia : Island)'
+- !lcsh 'Artists'' writings, French'
+- !lcc 'ND'
+- !lcsh 'Gauguin, Paul, 1848-1903 -- Travel -- French Polynesia -- Tahiti (Island)'
+- GITenberg
+title: Noa Noa
+url: http://www.gutenberg.org/ebooks/62800
