@@ -1,5 +1,5 @@
 _repo: Noa-Noa_62800
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Wolf, Luise
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '52132'
     url: http://www.gutenberg.org/2009/agents/52132
     wikipedia: https://de.wikipedia.org/wiki/Luise_Wolf_(%C3%9Cbersetzerin)
+covers:
+- cover_type: archival
+  image_path: 62800-h/images/cover.jpg
 creator:
   author:
     agent_name: Gauguin, Paul
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paul_Gauguin
     - https://fr.wikipedia.org/wiki/Paul_Gauguin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62800#Noa-Noa
 gutenberg_issued: '2020-08-01'
 gutenberg_type: Text
 identifiers:
